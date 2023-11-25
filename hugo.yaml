@@ -1,0 +1,17 @@
+baseURL: "https://example.org/"
+languageCode: "en-us"
+title: "Cole Tritch"
+theme: "PaperMod"
+
+params:
+  profileMode:
+    enabled: true
+    title: "Cole Tritch"
+    subtitle: "I'm Cole, a GIS Developer at Toth and Associates"
+    imageUrl: "home/profile_pic.jpg"
+    imageWidth: 320
+    imageheight: 320
+
+  socialIcons:
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/cole-tritch/"
